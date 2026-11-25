@@ -1,4 +1,5 @@
 # Tourism & Travel Planning System (Bangladesh)
+n**Made by:** Polok and Ahsan
 
 A C++ console application that helps plan a trip to famous places across all 8 divisions of Bangladesh.
 
